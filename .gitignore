@@ -137,3 +137,6 @@ dmypy.json
 
 # Template folder
 package_name/
+
+# Models
+model-*/
