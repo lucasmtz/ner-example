@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "adpyke.vscode-sql-formatter",
+    "atlassian.atlascode",
+    "docsmsft.docs-yaml",
+    "eamodio.gitlens",
+    "foxundermoon.shell-format",
+    "IronGeek.vscode-env",
+    "mechatroner.rainbow-csv",
+    "mgesbert.python-path",
+    "mhutchie.git-graph",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "njpwerner.autodocstring",
+    "redhat.vscode-yaml",
+    "shd101wyy.markdown-preview-enhanced",
+    "Shinotatwu-DS.file-tree-generator",
+    "streetsidesoftware.code-spell-checker",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ],
+  "unwantedRecommendations": []
+}
